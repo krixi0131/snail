@@ -1,5 +1,5 @@
 # snail
-https://hackmd.io/7b_uqvd2SNKUtY5p1mXxNg?view
+https://code.im.ncnu.edu.tw/problem/1101practise1
 ```python
 def main():
 	h=int(input())
